@@ -33,4 +33,5 @@ If you make use of the OUC-UAV-SEG dataset, please cite our following paper:
 {}
 
 ### Contact
-If you have any questions, you can contact Xiandong Wang. Email: wangxiandong@stu.ouc.edu.cn
+If you have any questions, you can contact Xiandong Wang. 
+Email: wangxiandong@stu.ouc.edu.cn
