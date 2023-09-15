@@ -5,7 +5,7 @@
 ### Description
 
 ### Download
-OUC-UAV-SEG is organized in the following format.
+OUC-UAV-SEG is organized in the following format:
 ```
 OUC-UAV-SEG
 ├─gt_jpg
