@@ -6,5 +6,5 @@
 
 
 ### Citation
-If you make use of the DOTA dataset, please cite our following paper:
+If you make use of the OUC-UAV-SEG dataset, please cite our following paper:
 {}
