@@ -7,14 +7,14 @@
 ### Download
 OUC-UAV-SEG is organized in the following format:
 ```
-OUC-UAV-SEG
+OUC-UAV-SEG(726)
 ├─gt_jpg
-│  ├─test
-│  ├─train
-│  └─val
+│  ├─train(477)
+│  ├─val(140)
+│  └─test(109)
 └─label_png
-    ├─train
-    └─val
+    ├─train(477)
+    └─val(140)
 ```
 It can be obtained from the following link:
 - [Google Drive](https://drive.google.com/file/d/17ebUnIegQxWGeOyr-JeBraqJCkHJJTM3/view?usp=sharing)
