@@ -25,7 +25,7 @@ OUC-UAV-SEG
 ```
 It can be obtained from the following link:
 - [Google Drive](https://drive.google.com/file/d/17ebUnIegQxWGeOyr-JeBraqJCkHJJTM3/view?usp=sharing)
-- [百度网盘](https://pan.baidu.com/s/1FnZEuSD4MLsd6-efB2G8vQ)
+- [百度网盘(提取密码：OUC1)](https://pan.baidu.com/s/1FnZEuSD4MLsd6-efB2G8vQ)
 
 
 ### Citation
