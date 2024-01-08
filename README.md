@@ -1,6 +1,7 @@
 # OUC-UAV-SEG
 
 ### News
+- **2024.1.8** Our paper "A semantic segmentation benchmark dataset for coastal ecosystem monitoring based on Unmanned Aerial Vehicle (UAV) " is **accepted** by CSIG(中国图象图形学报)  !
 - **2023.9.15** OUC-UAV-SEG released with all images and annotations for training and vallidation!
 ### Motivation
 - Coastal ecosystems are crucial for maintaining a high-quality ecological environment and enriching marine biodiversity. However, there is currently an issue with the lack of comprehensive and detailed data support for the classification and zoning of coastal ecosystems.
