@@ -1,4 +1,7 @@
 # OUC-UAV-SEG
+<div align="center">
+  <img src="https://github.com/OucCVLab/OUC-UAV-SEG/raw/main/haibao.jpg" width="300" alt="Image">
+</div>
 
 ### News
 - **2024.1.8** Our paper "A semantic segmentation benchmark dataset for coastal ecosystem monitoring based on Unmanned Aerial Vehicle (UAV) " is **accepted** by CSIG(中国图象图形学报)  !
