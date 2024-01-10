@@ -1,6 +1,6 @@
 # OUC-UAV-SEG
 <div align="center">
-  <img src="https://github.com/OucCVLab/OUC-UAV-SEG/raw/main/haibao.jpg" width="300" alt="Image">
+  <img src="https://github.com/OucCVLab/OUC-UAV-SEG/raw/main/haibao.jpg" width="400" alt="Image">
 </div>
 
 ### News
